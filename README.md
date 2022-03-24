@@ -1,6 +1,6 @@
 # Concurrent-Programming
 
-## The goal of this project is to acquire familiarity with using POSIX thread management primitives and Linux processes synchronization.
+## The goal of this project is to acquire familiarity using POSIX thread management primitives and Linux processes synchronization.
 - Understand and use LINUX functions for creating and synchronize shared memory between LINUX processes.
 - Understand to write POSIX thread programs, where threads execute in different processes and communicate through shared memory (shmget, shmat, shmdt, shmctl)
 
