@@ -16,3 +16,6 @@
 - Code for part 2 is located at `part2`
 - Compile: `make`
 - Execute `./procucer <bufer.size> <total.items (default=1000)>`
+
+## Contact
+- apost035@umn, trs.apostolou@gmail.com
