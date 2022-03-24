@@ -1,7 +1,7 @@
 # Concurrent Programming Using POSIX Threads 
 
 ## Description
--This directory includes the Part 1 of the producer-modifier-consumer problem using POSIX
+- This directory includes the Part 1 of the producer-modifier-consumer problem using POSIX
 threads and counting semaphores. In agreement with the description of the Assign 3 -
 Part 1 we create 3 Pthreads (producer, modifier & consumer). The producer handles
 producing items - in this exercise a circular buffer stream with timestamps and their
